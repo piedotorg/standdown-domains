@@ -46,8 +46,6 @@ We believe that, ideally, **`afsrc=1`** should be universally adopted so that no
 
 While we encourage the community to contribute to this file and use it as a resource, we see **`afsrc=1`** as the true, easy-to-use standard that already exists. Our hope is that more networks will **educate and enforce** its usage.
 
-For more details on how we can streamline attribution, please check out our blog post [Embracing afsrc=1: A New Approach to Affiliate Tracking](https://www.pie.org/blog/embracing-afsrc-1). In the post, we focus on the need for stronger **`afsrc=1`** enforcement and explore ideas like first-click attribution. Our hope is that more networks will adopt and enforce **`afsrc=1`**, leading to a more consistent and transparent affiliate ecosystem.
-
 ---
 
 ## **Stand-down Types & Implementation Responsibility**
