@@ -4,6 +4,10 @@
     "comment": "Universal standdown parameter"
   },
   {
+    "regex": "^https?\\:\\/\\/www\\.youtube\\.com\\/redirect",
+    "comment": "standdown for any youtube redirect to a merchant"
+  },
+  {
     "comment": "CJ rotating domain",
     "regex": "^https?\\:\\/\\/www\\.anrdoezrs\\.net\\/"
   },
@@ -85,8 +89,7 @@
   },
   {
     "regex": "^https?\\:\\/.*[\\?\\&]ranEAID=",
-    "comment": "RAN general link param on landing",
-    "network": "RAN"
+    "comment": "RAN general link param on landing"
   },
   {
     "comment": "RAN domain",
@@ -128,9 +131,7 @@
     "regex": "^https?\\:\\/.*\\.pepperjamnetwork\\.com",
     "comment": "ASC partner domain"
   },
-  {
-    "regex": "^https?\\:\\/\\/www\\.youtube\\.com\\/redirect"
-  },
+
   {
     "regex": "^https?\\:\\/.*[\\?\\&]irgwc=",
     "comment": "IMPACT landing page param on landing"
