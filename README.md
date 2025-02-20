@@ -48,32 +48,6 @@ While we encourage the community to contribute to this file and use it as a reso
 
 ---
 
-## **Stand-down Types & Implementation Responsibility**
-
-Stand-down enforcement can vary based on the level of restriction required by the affiliate network. There are two primary enforcement levels:
-
-### **1️⃣ Notag**
-- **Meaning:** The extension **cannot apply an affiliate tag** but may still display some functionality (e.g., coupons).  
-- **Allowed:**  
-  - Displaying coupons  
-  - Showing non-affiliate-related functionality  
-- **Not Allowed:**  
-  - Overwriting an existing affiliate tag  
-
-### **2️⃣ Stop**
-- **Meaning:** The extension **must not show any functionality** related to cash back or rewards.  
-- **Not Allowed:**  
-  - Displaying cash back pop-ups or banners  
-  - Allowing manual cash back activation  
-  - Showing coupons or rewards  
-
-### **🚨 Responsibility of Implementation**
-Using this Stand-down file **does not automatically enforce compliance**.  
-- **Implementers** (browser extensions, shopping tools, publishers, etc.) must ensure that their product **respects the appropriate Stand-down level**.  
-- Failure to respect Stand-down rules may result in **violations of affiliate network agreements**.
-
----
-
 ## **Contribution Guidelines**
 
 To maintain quality and accuracy, all contributions must follow these guidelines:
