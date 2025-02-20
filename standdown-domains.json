@@ -1,0 +1,166 @@
+[
+  {
+    "regex": "^https?\\:\\/.*[\\?\\&]afsrc=1",
+    "comment": "Universal standdown parameter"
+  },
+  {
+    "comment": "CJ rotating domain",
+    "regex": "^https?\\:\\/\\/www\\.anrdoezrs\\.net\\/"
+  },
+  {
+    "comment": "CJ rotating domain",
+    "regex": "^https?\\:\\/\\/www\\.commission-junction\\.com\\/"
+  },
+  {
+    "comment": "CJ rotating domain",
+    "regex": "^https?\\:\\/\\/www\\.dpbolvw\\.net\\/"
+  },
+  {
+    "comment": "CJ rotating domain",
+    "regex": "^https?\\:\\/\\/www\\.apmebf\\.com\\/"
+  },
+  {
+    "comment": "CJ rotating domain",
+    "regex": "^https?\\:\\/\\/www\\.jdoqocy\\.com\\/"
+  },
+  {
+    "comment": "CJ rotating domain",
+    "regex": "^https?\\:\\/\\/www\\.kqzyfj\\.com\\/"
+  },
+  {
+    "comment": "CJ rotating domain",
+    "regex": "^https?\\:\\/\\/www\\.qksrv\\.net\\/"
+  },
+  {
+    "comment": "CJ rotating domain",
+    "regex": "^https?\\:\\/\\/www\\.tkqlhce\\.com\\/"
+  },
+  {
+    "comment": "CJ rotating domain",
+    "regex": "^https?\\:\\/\\/www\\.qksz\\.net\\/"
+  },
+  {
+    "comment": "CJ rotating domain",
+    "regex": "^https?\\:\\/\\/www\\.afcyhf\\.com\\/"
+  },
+  {
+    "comment": "CJ rotating domain",
+    "regex": "^https?\\:\\/\\/www\\.awltovhc\\.com\\/"
+  },
+  {
+    "comment": "CJ rotating domain",
+    "regex": "^https?\\:\\/\\/www\\.ftjcfx\\.com\\/"
+  },
+  {
+    "comment": "CJ rotating domain",
+    "regex": "^https?\\:\\/\\/www\\.lduhtrp\\.net\\/"
+  },
+  {
+    "comment": "CJ rotating domain",
+    "regex": "^https?\\:\\/\\/www\\.tqlkg\\.com\\/"
+  },
+  {
+    "comment": "CJ rotating domain",
+    "regex": "^https?\\:\\/\\/www\\.awxibrm\\.com\\/"
+  },
+  {
+    "comment": "CJ rotating domain",
+    "regex": "^https?\\:\\/\\/www\\.cualbr\\.com\\/"
+  },
+  {
+    "comment": "CJ rotating domain",
+    "regex": "^https?\\:\\/\\/www\\.rnsfpw\\.net\\/"
+  },
+  {
+    "comment": "CJ rotating domain",
+    "regex": "^https?\\:\\/\\/www\\.vofzpwh\\.com\\/"
+  },
+  {
+    "comment": "CJ rotating domain",
+    "regex": "^https?\\:\\/\\/www\\.yceml\\.net\\/"
+  },
+  {
+    "regex": "^https?\\:\\/.*[\\?\\&]cjevent=",
+    "comment": "CJ general link param"
+  },
+  {
+    "regex": "^https?\\:\\/.*[\\?\\&]ranEAID=",
+    "comment": "RAN general link param on landing",
+    "network": "RAN"
+  },
+  {
+    "comment": "RAN domain",
+    "regex": "^https?\\:\\/\\/tk\\.jrs5\\.com\\/"
+  },
+  {
+    "comment": "RAN domain",
+    "regex": "^https?\\:\\/\\/linksynergy\\.jrs5\\.com\\/"
+  },
+  {
+    "comment": "RAN domain",
+    "regex": "^https?\\:\\/\\/click\\.linksynergy\\.com\\/"
+  },
+  {
+    "regex": "^https?\\:\\/\\/www\\.gopjn\\.com\\/t",
+    "comment": "ASC partner domain"
+  },
+  {
+    "regex": "^https?\\:\\/\\/www\\.pjatr\\.com\\/t",
+    "comment": "ASC partner domain"
+  },
+  {
+    "regex": "^https?\\:\\/\\/www\\.pjtra\\.com\\/t",
+    "comment": "ASC partner domain"
+  },
+  {
+    "regex": "^https?\\:\\/\\/www\\.pntra\\.com\\/t\\/\\w+-\\w+",
+    "comment": "ASC partner domain"
+  },
+  {
+    "regex": "^https?\\:\\/\\/www\\.pntrac\\.com\\/t\\/\\w+-\\w+",
+    "comment": "ASC partner domain"
+  },
+  {
+    "regex": "^https?\\:\\/\\/www\\.pntrs\\.com\\/t\\/\\w+-\\w+",
+    "comment": "ASC partner domain"
+  },
+  {
+    "regex": "^https?\\:\\/.*\\.pepperjamnetwork\\.com",
+    "comment": "ASC partner domain"
+  },
+  {
+    "regex": "^https?\\:\\/\\/www\\.youtube\\.com\\/redirect"
+  },
+  {
+    "regex": "^https?\\:\\/.*[\\?\\&]irgwc=",
+    "comment": "IMPACT landing page param on landing"
+  },
+  {
+    "regex": "^https?\\:\\/\\/prf.hn/",
+    "comment": "PZ general affiliate link"
+  },
+  {
+    "regex": "^https?\\:\\/\\/www\\.awin1.com/",
+    "comment": "AW general affiliate link"
+  },
+  {
+    "regex": "^https?\\:\\/\\/track\\.webgains\\.com/",
+    "comment": "Webgains general affiliate link"
+  },
+  {
+    "regex": "^https?\\:\\/\\/shrsl.com/",
+    "comment": "Sharesale shortened affiliate link"
+  },
+  {
+    "regex": "^https?\\:\\/\\/www\\.shareasale.com/",
+    "comment": "Sharesale general affiliate link"
+  },
+  {
+    "regex": "^https?\\:\\/\\/howl\\.link\\/link",
+    "comment": "Howl partner general affiliate link"
+  },
+  {
+    "comment": "EBAY affiliate query param",
+    "regex": "^https:\\/\\/[\\w]+\\.ebay.*[\\?\\&](mkcid=|campid=|mkevt=)"
+  }
+]
