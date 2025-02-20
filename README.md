@@ -1,4 +1,3 @@
-
 # Affiliate Network Rules
 
 This repository contains a **JSON file** that defines rules for handling **affiliate network tracking links**. It includes patterns to identify various affiliate networks and specifies how they should be processed. We publish these rules to promote **transparency** in how we handle Stand-down, rather than pushing for a universal standard that everyone must adopt.
